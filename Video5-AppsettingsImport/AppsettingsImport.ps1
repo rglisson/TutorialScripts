@@ -1,4 +1,5 @@
 # https://stackoverflow.com/questions/64187004/powershell-selecting-noteproperty-type-objects-from-object
+# Add your variable group id into this array before executing.
 $VariableGroupId = @()
 $AppSettingsPath = 'C:\temp\appsettingsDev.json'
 $Org = "https://dev.azure.com/*****"
